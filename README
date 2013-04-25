@@ -1,8 +1,8 @@
-Open each project in the JME3 engine
+Open each project in the JME3 SDK http://jmonkeyengine.org/
 
 the Experiments are clients and need the server to run first:
 
 run the server, then run the client as many times as you would like to see drop into game at once  to a max of 10: i haven't added dynamic growth of
-char max limit yet.
+char max limit yet. Currently I do not recommend doing this on a laptop, they do not have the power to handle it.
 
 Enjoy
